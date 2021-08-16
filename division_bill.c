@@ -15,7 +15,6 @@ int main (){
     carlos_valorf = (float)carlos_valor;
     andre_valorf = (float)andre_valor;
     
-    
     printf("Andre: %.2f, Carlos: %.2f e Felipe: %.2f", andre_valorf, carlos_valorf, felipe_valor);
     
     return 0;
