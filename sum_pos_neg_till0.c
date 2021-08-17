@@ -18,7 +18,7 @@ int main() {
        sumnegative += entry;
    }
 
-   printf("Soma numeros positivos: %dSoma numeros negativos: %d", somapositivo, somanegativo);
+   printf("Soma numeros positivos: %dSoma numeros negativos: %d", sumpositive, sumnegative);
    
     return 0;
 }
